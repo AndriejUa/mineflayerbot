@@ -1,0 +1,14 @@
+{
+ "ip": "TestAternosBOT.aternos.me",
+ "port": "50356",
+ "name": "BotTest",
+ "password": "",
+ "auto-night-skip": "false",
+ "prefix": "",
+ "login-enabled": "false",
+ "register-cmd": "/register testbot123 testbot123",
+ "login-cmd": "/login testbot123",
+ "loginmsg": "Your any msg",
+ "auto-reconnect": "true",
+ "web": "true"  
+}
